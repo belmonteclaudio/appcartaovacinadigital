@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cartao de Vacina</string>
+    <string name="cart_o_de_vacina">Cartão de Vacina Digital</string>
+    <string name="vacina_o">Vacinação</string>
+    <string name="senha">Senha</string>
+    <string name="nome">Nome Completo</string>
+    <string name="email">Email</string>
+    <string name="hist_rico_de_vacina">Histórico de Vacina</string>
+    <string name="campanha_de_vacina">Campanha de vacina</string>
+    <string name="posto_de_vavina">Posto de Vacina</string>
+    <string name="vacina_dispon_veis">Vacina disponíveis</string>
+    <string name="vavinas">vavinas</string>
+    <string name="vacinas">vacinas</string>
+    <string name="agendamento">Agendamento</string>
+</resources>
