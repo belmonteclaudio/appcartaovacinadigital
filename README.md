@@ -12,4 +12,13 @@ Cristiano Barbosa da Silva – 01355984​
 
 Vinícius Rodrigues Barbosa de Melo - 01259414​
 
+Diogenes de Almeida Mélo -
+
+Elton Pereira dos Santos -
+
+Rodrigo Ramos de Souza Nogueira -
+
+Edicley Henrique Bezerra -
+
+
 ![image](https://user-images.githubusercontent.com/38014471/120398936-7c2b3980-c311-11eb-83ba-4b55283fb2c7.png)
