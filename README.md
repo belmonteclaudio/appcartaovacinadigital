@@ -27,6 +27,6 @@ Rodrigo Ramos de Souza Nogueira - 01334136​
 
 Edicley Henrique Bezerra - 01063109​
 
-
+-> Tela inicial do App (Maio 2021)
 ![image](https://user-images.githubusercontent.com/38014471/120398936-7c2b3980-c311-11eb-83ba-4b55283fb2c7.png)
-Tela inicial do App (Maio 2021)
+
