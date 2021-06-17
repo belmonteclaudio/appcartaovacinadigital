@@ -9,7 +9,7 @@ Um problema atual da vacinação é o controle, o controle de vacinação é ano
 Como a carteira de vacina é um documento importante para todos os brasileiros e está presente desde o seu nascimento, o público-alvo será todos os cidadãos brasileiros.
 
 
-Alunos:
+-> Alunos:
 
 Alexsandro Candido de Lima Junior - 01275220​
 
@@ -29,3 +29,4 @@ Edicley Henrique Bezerra - 01063109​
 
 
 ![image](https://user-images.githubusercontent.com/38014471/120398936-7c2b3980-c311-11eb-83ba-4b55283fb2c7.png)
+Tela inicial do App (Maio 2021)
